@@ -1,4 +1,4 @@
-# Project Name -Melanoma Detection CNN Assignment -   By Saravanakumar PERUMAL
+# Project Name -Melanoma Detection Assignment -   By Saravanakumar PERUMAL
 > Description : 
     In this assignment, multiclass classification CNN model is built using a custom convolutional neural network in TensorFlow. 
 ## Table of Contents
