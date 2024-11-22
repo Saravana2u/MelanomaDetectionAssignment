@@ -50,7 +50,7 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;   Training accuracy very high compared to validation accuracy which means that the model memorized the training data but failed to predict the test data
 - &nbsp;&nbsp;&nbsp;&nbsp;   Validation loss is decreasing for each Epoch and it is a good sign and more Epochs may help to improve the CNN model
 - &nbsp;&nbsp;&nbsp;&nbsp;   This second CNN model also not a good model for Melanoma Detection
-
+- &nbsp;&nbsp;&nbsp;&nbsp;   The diseases classes are having highly imbalance data which resulted in poor CNN Model
 #### Conclusion 3 :
 - &nbsp;&nbsp;&nbsp;&nbsp;    This final CNN model with Data Augmentation, Dropout, Batch Normalization, l2 Regularization and with more CNN layers is a good CNN model.
 - &nbsp;&nbsp;&nbsp;&nbsp;    Training accuracy is : 0.9283
